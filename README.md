@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/nikonm/gin-dumper/branch/master/graph/badge.svg)](https://codecov.io/gh/nikonm/gin-dumper)
 [![Build Status](https://travis-ci.org/nikonm/gin-dumper.svg?branch=master)](https://travis-ci.org/nikonm/gin-dumper)
 
- - This is gin middleware handler for dumping body and headers of request(and response). 
+ - Gin middleware handler for dumping body and headers of request(and response). 
  - You can easily use it with your logger
 
 ###### Sample
