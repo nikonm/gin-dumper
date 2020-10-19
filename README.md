@@ -1,5 +1,5 @@
 #### GIN dumper
-
+  
 [![codecov](https://codecov.io/gh/nikonm/gin-dumper/branch/master/graph/badge.svg)](https://codecov.io/gh/nikonm/gin-dumper)
 [![Build Status](https://travis-ci.org/nikonm/gin-dumper.svg?branch=master)](https://travis-ci.org/nikonm/gin-dumper)
 
